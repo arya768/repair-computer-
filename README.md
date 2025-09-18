@@ -1,5 +1,5 @@
-🖥️ Display Replacement for Lenovo G50-45
-How to repair the display for Lenovo G50-45
+🖥️ Display Replacement for Lenovo G50-45<br>
+How to repair the display for Lenovo G50-45<br>
 🔧 Tools needed for repair:<br>
 Screwdriver<br>
 Pry tool<br>
