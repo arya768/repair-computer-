@@ -1,24 +1,21 @@
-# display-replacement-computer-
-how to repair display for Lenovo G50-45
-tools needed for repair:
-screw driver 
-pry tool 
-display replacement(to know model google or it is writte on display once removed)
-Steps for repair:
-1- Check if the issues is not software.
-2- Once sure the issue is hardware, in my case broken display, 
-start with removing the bazel using pry tool. 
-3-There are 4 screws at the top corners remove. 
-4-the display should be deattached but be careful, it is connected with wiring. 
-5- disconnect wiring. 
-6- order display from micro-center, amazon, or etc...
-7-connect the wiring of new display
-8-put the screws back on.
-9-put the bazel back on. 
-10- turn on computer and replacement should be done successfully.
-
-BELOW SHOULD BE A TIKTOK VIDEO OF REPAIR:) 
-
+🖥️ Display Replacement for Lenovo G50-45
+How to repair the display for Lenovo G50-45
+🔧 Tools needed for repair:<br>
+Screwdriver<br>
+Pry tool<br>
+Replacement display (To find the correct model, either Google it or check the label on the display once removed)<br>
+🛠️ Steps for repair:<br>
+Check if the issue is software-related.<br>
+Once sure the issue is hardware (in this case, a broken display), start by removing the bezel using the pry tool.<br>
+Remove the 4 screws located at the top corners.<br>
+The display should now be detached, but be careful—it is still connected with wiring.<br>
+Disconnect the wiring carefully.<br>
+Order a replacement display from Micro Center, Amazon, or other trusted sellers.<br>
+Connect the wiring of the new display.<br>
+Put the screws back on.<br>
+Put the bezel back on.<br>
+Turn on the computer — the replacement should now be successful.<br>
+BELOW SHOULD BE A TIKTOK VIDEO OF THE REPAIR :)
 
 
 
